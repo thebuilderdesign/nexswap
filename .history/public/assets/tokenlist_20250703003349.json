@@ -1,0 +1,41 @@
+{
+  "name": "Nexswap Default",
+  "timestamp": "2025-07-01T14:08:06.993Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/thebuilderdesign/nexus/refs/heads/main/logo.PNG",
+  "keywords": [
+    "Nexswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "chainId": 3940,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Nexus",
+      "symbol": "NEX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/thebuilderdesign/nexus/refs/heads/main/nexus-logo.png"
+    },
+    {
+      "chainId": 3940,
+      "address": "0x9B69b74eCB2d2e22118e303BD8e96871a4400DFF",
+      "name": "Nexum",
+      "symbol": "NEXUM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/thebuilderdesign/nexus/refs/heads/main/logo.png"
+    },
+    {
+      "chainId": 3940,
+      "address": "0x6078F52F47b04D18ECc2cA92023BabEb85A21635",
+      "name": "Wrapped Nexus",
+      "symbol": "WNEX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/thebuilderdesign/nexus/refs/heads/main/nexus-logo.png"
+    }
+  ]
+}
