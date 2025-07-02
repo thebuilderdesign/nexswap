@@ -1,3 +1,3 @@
-# TayaSwap Frontend
+# NexSwap Frontend
 
 @TODO
